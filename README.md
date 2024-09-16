@@ -2,7 +2,7 @@
 
 I’m Naveen Kumar Singh, a passionate Data Science student. I’m a detail-oriented and organized individual with a strong background in Python, Excel, SQL, Machine Learning, Tableau, Power BI, and HTML & CSS.
 
-🚀 About Me : I’m currently pursuing my certification and training in Data Science and have developed a strong foundation in data manipulation, analysis, and visualization. I love diving into datasets and extracting valuable insights that drive decision-making and innovation.
+🚀 About Me : I have recently pursued my certification and training in Data Science and have developed a strong foundation in data manipulation, analysis, and visualization. I love diving into datasets and extracting valuable insights that drive decision-making and innovation.
 
 💻 Technical Skills- 
 
